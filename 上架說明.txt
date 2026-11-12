@@ -1,0 +1,16 @@
+AwinGo｜人生花費小練習 v1.5
+GitHub Pages 上架說明
+
+1. 在 GitHub 建立新的 Public 儲存庫，建議名稱 awingo-life-budget。
+2. 解壓縮本 ZIP，將 index.html、app.js、awingo-logo.jpg、diamond.svg 上傳到新儲存庫最外層。
+   請上傳解壓縮後的檔案，不能只上傳 ZIP。
+3. 按 Commit changes 儲存檔案。
+4. 到 Settings → Pages，Source 選 Deploy from a branch。
+5. Branch 選 main，資料夾選 / (root)，按 Save。
+6. 等候部署完成，使用 Pages 顯示的正式網址開啟。
+
+四個網站檔案必須放在同一層；不需要安裝套件或另外編譯。
+每個互動工具各自使用不同儲存庫，可避免覆蓋舊網頁。
+本工具使用 awingo-life 前綴保存瀏覽器試算選擇。
+
+更新版本時：只替換這個新儲存庫內對應的檔案，再 Commit changes。
